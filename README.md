@@ -3,7 +3,7 @@ Heart disease is one of the leading causes of death in the United States. This p
 ## Main
 The main file that should be executed is the [Machine_learning.ipynb](https://github.com/Madhav4487/Predictive-modeling-for-early-heart-disease-detection/blob/main/Machine_learning_project.ipynb) file. This file format was chosen so that the code could be executed in subsections in a collaborative environment. 
 ## Dataset
-The dataset that was used to trained the model is the []() dataset. This dataset contains 1024 samples, each having 14 features that deal with diagnosing heart disease:
+The dataset that was used to trained the model is the [heart.csv](https://github.com/Madhav4487/Predictive-modeling-for-early-heart-disease-detection/blob/main/heart.csv) dataset. This dataset contains 1024 samples, each having 13 features and 1 target feature (if the person has heart disease or not) that deal with diagnosing heart disease:
 1. Age
 2. Sex
 3. Chest Pain
